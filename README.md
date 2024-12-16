@@ -1,1 +1,3 @@
-[![malaamir's 42 stats](https://badge.mediaplus.ma/binary/malaamir?width=900)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42">
+  <img src="https://badge.mediaplus.ma/binary/malaamir" style="width: 500px;"/>
+</a>
