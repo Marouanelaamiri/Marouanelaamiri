@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on .building .building an Internet Relay Chat (IRC) server from scratch in C++ (98)<br>👯 I’m looking to collaborate on the upcoming team-based projects in the 1337 curriculum.<br>🤝 I’m looking for help with exploring topics outside my core curriculum, like AI agent , and LLMs<br>🌱 I’m currently learning advanced C++ concepts, including template metaprogramming, SFINAE, and the nuances of STL container design.<br>💬 Ask me about anything related to the 1337 C curriculum, from libft to memory management.
+🔭 I’m currently working on .building .building an Internet Relay Chat (IRC) server from scratch in C++ (98)<br>👯 I’m looking to collaborate on the upcoming team-based projects in the 1337 curriculum.<br>🤝 I’m looking for help with exploring topics outside my core curriculum, like AI agent , and LLMs<br>🌱 I’m currently learning advanced C++ concepts, including template metaprogramming, SFINAE, and the nuances of STL container design.<br>💬 Ask me about anything related to the 1337 C/C++ curriculum, from libft to memory management.
 
 
 ## 🌐 Socials:
