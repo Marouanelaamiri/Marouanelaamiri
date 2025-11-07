@@ -4,15 +4,15 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marouane-laamiri-0197a317a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@laamirimarouane8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laamirimarouane8@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4B4B.svg?logo=streamlit&logoColor=black)](https://my-mini-portfolio.streamlit.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4B4B.svg?logo=streamlit&logoColor=black)](https://marouanelaamiri.github.io/my-portfolio/index.html)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=marouanelaamiri&theme=dark&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=3656)<br/>
+![](https://github-readme-stats.vercel.app/api?username=marouanelaamiri&theme=dark&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=3666)<br/>
 ![](https://streak-stats.readme.dev/?user=marouanelaamiri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marouanelaamiri&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&cache_seconds=3655)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marouanelaamiri&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&cache_seconds=3665)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=marouanelaamiri&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
