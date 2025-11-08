@@ -12,8 +12,8 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![HTML](https://img.shields.io/badge/html-3670A0?style=flat-square&logo=html&logoColor=ffdd54)
-
+=![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=marouanelaamiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
