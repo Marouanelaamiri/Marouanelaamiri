@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marouane-laamiri-0197a317a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@laamirimarouane8) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laamirimarouane8@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%236c42d3.svg?style=flat-square&logo=streamlit&logoColor=white)](https://marouanelaamiri.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=briefcase&logoColor=white)](https://marouanelaamiri.github.io/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
