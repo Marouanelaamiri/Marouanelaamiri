@@ -18,8 +18,8 @@
   <a href="mailto:laamirimarouane8@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40"/>
   </a>
-  <a href="https://marouanelaamiri.github.io/" target="_blank">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-creative-thinking-flaticons-lineal-color-flat-icons.png" alt="Portfolio" width="40"/>
+  <a href="https://marouanelaamiri.github.io/" target="_blank" title="My Portfolio">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="40"/>
   </a>
 </div>
 
@@ -28,6 +28,17 @@
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,go,aws,html,css" alt="Tech Stack" />
+</div>
+
+---
+
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marouanelaamiri&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=marouanelaamiri&theme=tokyonight&hide_border=true" alt="Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marouanelaamiri&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" />
 </div>
 
 ---
