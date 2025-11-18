@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/marouane-laamiri-0197a317a/) [![Medium](https://img.icons8.com/color/48/medium-monogram.png)](https://medium.com/@laamirimarouane8) [![Email](https://img.icons8.com/color/48/gmail-new.png)](mailto:laamirimarouane8@gmail.com) [![Portfolio](https://img.icons8.com/fluency/48/domain.png)](https://marouanelaamiri.github.io/)
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/marouane-laamiri-0197a317a/) [![Medium](https://img.icons8.com/color/48/medium-monogram.png)](https://medium.com/@laamirimarouane8) [![Email](https://img.icons8.com/color/48/gmail-new.png)](https://mail.google.com/mail/?view=cm&fs=1&to=laamirimarouane8@gmail.com) [![Portfolio](https://img.icons8.com/fluency/48/domain.png)](https://marouanelaamiri.github.io/)
 
 ---
 
