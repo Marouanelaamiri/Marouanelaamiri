@@ -8,28 +8,20 @@
 ---
 
 ## 🌐 Socials:
-<div align="left">
-  <a href="https://www.linkedin.com/in/marouane-laamiri-0197a317a/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
-  </a> 
-  <a href="https://medium.com/@laamirimarouane8" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="Medium" width="40"/>
-  </a> 
-  <a href="mailto:laamirimarouane8@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40"/>
-  </a>
-  <a href="https://marouanelaamiri.github.io/" target="_blank" title="My Portfolio">
-    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="40"/>
-  </a>
-</div>
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marouane-laamiri-0197a317a/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@laamirimarouane8) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laamirimarouane8@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-6c42d3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marouanelaamiri.github.io/)
 
 # 💻 Tech Stack:
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,go,aws,html,css" alt="Tech Stack" />
-</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=marouanelaamiri&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com?user=marouanelaamiri&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marouanelaamiri&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 # 📊 GitHub Stats:
