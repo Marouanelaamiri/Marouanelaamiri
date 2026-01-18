@@ -17,11 +17,14 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marouanelaamiri&show_icons=true&locale=en&layout=compact" alt="marouanelaamiri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marouanelaamiri&show_icons=true&locale=en" alt="marouanelaamiri" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouanelaamiri&" alt="marouanelaamiri" /></p>
+<section class="github-stats">
+    <h2>GitHub Activity</h2>
+    <div class="stats-container">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marouanelaamiri&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api?username=marouanelaamiri&show_icons=true&locale=en&theme=tokyonight" alt="Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=marouanelaamiri&theme=tokyonight" alt="Streak" />
+    </div>
+</section>
 
 ---
 
