@@ -16,15 +16,19 @@
 
 
 ---
-
-<section class="github-stats">
-    <h2>GitHub Activity</h2>
-    <div class="stats-container">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marouanelaamiri&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
-        <img src="https://github-readme-stats.vercel.app/api?username=marouanelaamiri&show_icons=true&locale=en&theme=tokyonight" alt="Stats" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=marouanelaamiri&theme=tokyonight" alt="Streak" />
-    </div>
-</section>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marouanelaamiri&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="marouanelaamiri" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marouanelaamiri&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="marouanelaamiri" />
+      </td>
+    </tr>
+  </table>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=marouanelaamiri&theme=tokyonight&hide_border=true" alt="marouanelaamiri" />
+</div>
 
 ---
 
