@@ -24,11 +24,7 @@
       </td>
       <td>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marouanelaamiri&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="marouanelaamiri" />
-      </td>
-    </tr>
-  </table>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=marouanelaamiri&theme=tokyonight&hide_border=true" alt="marouanelaamiri" />
-</div>
+
 
 ---
 
