@@ -27,7 +27,6 @@
       </td>
     </tr>
   </table>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=marouanelaamiri&theme=tokyonight&hide_border=true" alt="marouanelaamiri" />
 </div>
 
 
