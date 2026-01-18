@@ -17,6 +17,14 @@
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marouanelaamiri&show_icons=true&locale=en&layout=compact" alt="marouanelaamiri" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marouanelaamiri&show_icons=true&locale=en" alt="marouanelaamiri" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouanelaamiri&" alt="marouanelaamiri" /></p>
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -28,8 +36,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marouanelaamiri&show_icons=true&locale=en&layout=compact" alt="marouanelaamiri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marouanelaamiri&show_icons=true&locale=en" alt="marouanelaamiri" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouanelaamiri&" alt="marouanelaamiri" /></p>
