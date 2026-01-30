@@ -14,22 +14,6 @@
 # 💻 Tech Stack:
 ![Tech Stack](https://skillicons.dev/icons?i=python,cpp,c,go,aws,html,css)
 
-
----
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marouanelaamiri&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="marouanelaamiri" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marouanelaamiri&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="marouanelaamiri" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 ---
 
 ### ✍️ Random Dev Quote
