@@ -1,29 +1,69 @@
-# 💫 About Me:
-🔭 I’m currently working on building an Internet Relay Chat (IRC) server from scratch in C++ (98)<br>
-👯 I’m looking to collaborate on the upcoming team-based projects in the 1337 curriculum.<br>
-🤝 I’m looking for help with exploring topics outside my core curriculum, like AI agents and LLMs<br>
-🌱 I’m currently learning advanced C++ concepts, including template metaprogramming, SFINAE, and the nuances of STL container design.<br>
-💬 Ask me about anything related to the 1337 C/C++ curriculum, from libft to memory management.
+# 👋 Hi, I'm Marouane Laamiri
+
+### Software Engineer | System Architect | 1337 Student
+*Engineering robust, stable, and automated software solutions with a focus on low-level systems and high-level logic.*
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/marouane-laamiri-0197a317a/) [![Medium](https://img.icons8.com/color/48/medium-monogram.png)](https://medium.com/@laamirimarouane8) [![Email](https://img.icons8.com/color/48/gmail-new.png)](https://mail.google.com/mail/?view=cm&fs=1&to=laamirimarouane8@gmail.com) [![Portfolio](https://img.icons8.com/fluency/48/briefcase.png)](https://marouanelaamiri.github.io/)
+### 🚀 Professional Focus & Capabilities
+Following a "Systems First" philosophy, I build tools that prioritize reliability and scalability:
+
+* **Automate:** Developing custom Python/C scripts to eliminate repetitive tasks and human error.
+* **Stabilize:** Architecting memory-safe, concurrent systems (C/C++).
+* **Visualize:** Translating complex technical flows into clear, high-impact demonstrators.
+* **Simplify:** Refining technical debt into streamlined, maintainable professional tools.
+
 ---
 
-# 💻 Tech Stack:
-![Tech Stack](https://skillicons.dev/icons?i=python,cpp,c,go,aws,html,css)
+### 🔭 Current Quest & Learning
+* **Current Project:** Engineering an **Internet Relay Chat (IRC) server** from scratch in **C++ (98)**.
+* **Advanced Focus:** Mastering **Template Metaprogramming**, **SFINAE**, and the nuances of **STL container design**.
+* **Future Interests:** Exploring the intersection of systems programming and **AI Agents/LLMs**.
+* **Collaboration:** Open to team-based projects within the **1337 curriculum** and beyond.
+
+---
+
+### 💻 Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=python,cpp,c,go,aws,html,css,linux,docker,git,bash)
+
+---
+
+### 📊 Engineering Stats
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marouanelaamiri&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c001f&title_color=6c42d3&text_color=ffffff" alt="Top Languages" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marouanelaamiri&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0c001f&title_color=6c42d3&text_color=ffffff" alt="General Stats" />
+      </td>
+    </tr>
+  </table>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=marouanelaamiri&theme=tokyonight&hide_border=true&background=0c001f&stroke=6c42d3&ring=6c42d3&fire=6c42d3" alt="Streak Stats" />
+</div>
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
 
 ---
 
-## 💰 You can Donate here
-[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/recklessclown)
+### 🌐 Connect Professionally
+[![Portfolio](https://img.shields.io/badge/Portfolio-%236c42d3.svg?style=for-the-badge&logo=briefcase&logoColor=white)](https://marouanelaamiri.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marouane-laamiri-0197a317a/)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@laamirimarouane8)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laamirimarouane8@gmail.com)
 
+---
 
+### ☕ Support My Work
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal)](https://paypal.me/recklessclown)
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Marouanelaamiri/Marouanelaamiri/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
