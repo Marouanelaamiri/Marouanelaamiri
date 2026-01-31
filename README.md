@@ -33,15 +33,15 @@ Following a "Systems First" philosophy, I build tools that prioritize reliabilit
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marouanelaamiri&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c001f&title_color=6c42d3&text_color=ffffff" alt="Top Languages" />
+      <td width="50%" align="center">
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=marouanelaamiri&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c001f&title_color=6c42d3&text_color=ffffff&icon_color=6c42d3" alt="Top Languages" />
       </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marouanelaamiri&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0c001f&title_color=6c42d3&text_color=ffffff" alt="General Stats" />
+      <td width="50%" align="center">
+        <img height="170px" src="https://github-readme-stats.vercel.app/api?username=marouanelaamiri&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0c001f&title_color=6c42d3&text_color=ffffff&icon_color=6c42d3" alt="General Stats" />
       </td>
     </tr>
   </table>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=marouanelaamiri&theme=tokyonight&hide_border=true&background=0c001f&stroke=6c42d3&ring=6c42d3&fire=6c42d3" alt="Streak Stats" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=marouanelaamiri&theme=tokyonight&hide_border=true&background=0c001f&stroke=6c42d3&ring=6c42d3&fire=6c42d3&currStreakLabel=6c42d3" alt="Streak Stats" />
 </div>
 
 ---
