@@ -6,7 +6,7 @@
 ---
 
 ### Capabilities
-Following a "Systems First" philosophy, I build tools that prioritize reliability and scalability:
+I build tools that prioritize reliability and scalability:
 
 * **Automate:** Developing custom Python/C scripts to eliminate repetitive tasks and human error.
 * **Stabilize:** Architecting memory-safe, concurrent systems (C/C++).
