@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 Professional Focus & Capabilities
+### Capabilities
 Following a "Systems First" philosophy, I build tools that prioritize reliability and scalability:
 
 * **Automate:** Developing custom Python/C scripts to eliminate repetitive tasks and human error.
@@ -15,7 +15,7 @@ Following a "Systems First" philosophy, I build tools that prioritize reliabilit
 
 ---
 
-### 🔭 Current Quest & Learning
+### Learning
 * **Current Project:** Engineering an **Internet Relay Chat (IRC) server** from scratch in **C++ (98)**.
 * **Advanced Focus:** Mastering **Template Metaprogramming**, **SFINAE**, and the nuances of **STL container design**.
 * **Future Interests:** Exploring the intersection of systems programming and **AI Agents/LLMs**.
@@ -23,20 +23,18 @@ Following a "Systems First" philosophy, I build tools that prioritize reliabilit
 
 ---
 
-### 💻 Tech Stack
 ![Tech Stack](https://skillicons.dev/icons?i=python,cpp,c,go,aws,html,css,linux,docker,git,bash)
 
 ---
 
 
-### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
 
-### 🌐 Connect Professionally
+### Connect 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%236c42d3.svg?style=for-the-badge&logo=briefcase&logoColor=white)](https://marouanelaamiri.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marouane-laamiri-0197a317a/)
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@laamirimarouane8)
@@ -44,7 +42,7 @@ Following a "Systems First" philosophy, I build tools that prioritize reliabilit
 
 ---
 
-### ☕ Support My Work
+### Support My Work
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal)](https://paypal.me/recklessclown)
 
 <p align="center">
