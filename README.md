@@ -16,7 +16,7 @@ I build tools that prioritize reliability and scalability:
 ---
 
 ### 🔭 Current Quests
-* **Transcendent (42):** Developing a high-performance web application, focusing on full-stack integration and real-time user interaction.
+* **Transcendence:** Developing a high-performance web application, focusing on full-stack integration and real-time user interaction.
 * **Inception:** Virtualizing a complete infrastructure stack using **Docker** and **Docker Compose**, orchestrating Nginx, MariaDB, and WordPress in a strictly controlled environment.
 * **Advanced Learning:** Exploring the intersection of systems programming and **AI Agents/LLMs** for automated dev-ops workflows.
 
