@@ -23,7 +23,7 @@ I build tools that prioritize reliability and scalability:
 ---
 
 ### 💻 Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=docker,nginx,mysql,typescript,nodejs,react,python,cpp,c,linux,git,bash)
+![Tech Stack](https://skillicons.dev/icons?i=docker,nginx,postgresql,prisma,javascript,nestjs,react,python,cpp,c,linux,git,bash)
 
 ---
 
